@@ -22,8 +22,8 @@
   --Wenge-Brown: hsl(30, 10%, 34%);
   --Dark-Charcoal: hsl(24, 5%, 18%);
 }
-body{
-    background-color: var(--Eggshell);
+body {
+  background-color: var(--Eggshell);
 }
 p {
   font-size: 16px;
@@ -35,7 +35,7 @@ main {
   background-color: var(--White);
   border-radius: 10px;
 }
-h1{
+h1 {
   font-family: "Young Serif";
 }
 #omelette {
@@ -107,9 +107,9 @@ img {
   padding: 0 20px;
   /* margin: -15px 0; */
 }
-.process ol li::marker{
-    color: var(--Dark-Raspberry);
-    font-weight: 600;
+.process ol li::marker {
+  color: var(--Dark-Raspberry);
+  font-weight: 600;
 }
 /* .process ol{
     margin: -30px 0;
